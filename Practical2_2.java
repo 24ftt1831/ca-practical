@@ -1,0 +1,8 @@
+public class Practical2_2 { 
+    public static void main(String[] args) {
+        System.out.println("(\\___/)"+"\tI am an");
+        System.out.println("( @W@ )"+"       OOO   W      W L");
+        System.out.println("/) W  )"+"     O     O   W W w  L");
+        System.out.println(" ^   ^ "+"       OOO      W W   L L L");
+    }
+}
